@@ -1,0 +1,6 @@
+2014-03-31 23:26:20,741 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.cadastro:cadastroweb:0.0.1-SNAPSHOT @ /home/rafael/cadastroweb/cadastroweb/pom.xml.
+2014-03-31 23:26:22,475 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.cadastro:cadastroweb:0.0.1-SNAPSHOT @ /home/rafael/cadastroweb/cadastroweb/pom.xml.
+2014-03-31 23:26:34,790 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-03-31 23:26:34,799 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-03-31 23:26:34,805 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-03-31 23:26:34,805 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

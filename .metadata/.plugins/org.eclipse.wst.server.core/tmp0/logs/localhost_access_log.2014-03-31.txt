@@ -1,0 +1,11 @@
+127.0.0.1 - - [31/Mar/2014:23:28:09 -0300] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [31/Mar/2014:23:28:10 -0300] "GET /cadastroweb/ HTTP/1.1" 200 137
+127.0.0.1 - - [31/Mar/2014:23:28:10 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [31/Mar/2014:23:28:57 -0300] "GET /cadastroweb/ HTTP/1.1" 200 137
+127.0.0.1 - - [31/Mar/2014:23:29:00 -0300] "GET /cadastroweb/novo.do HTTP/1.1" 200 2218
+127.0.0.1 - - [31/Mar/2014:23:29:00 -0300] "GET /cadastroweb/javascript/cadastro.js HTTP/1.1" 200 171
+127.0.0.1 - - [31/Mar/2014:23:29:00 -0300] "GET /cadastroweb/commons/scripts/jquery/jquery.js HTTP/1.1" 200 247823
+127.0.0.1 - - [31/Mar/2014:23:29:00 -0300] "GET /cadastroweb/commons/css/form.css HTTP/1.1" 200 26
+127.0.0.1 - - [31/Mar/2014:23:29:00 -0300] "GET /cadastroweb/commons/scripts/jquery/jquery.maskedinput-1.1.4.pack.js HTTP/1.1" 200 2911
+127.0.0.1 - - [31/Mar/2014:23:29:00 -0300] "GET /cadastroweb/commons/assets/css/bootstrap.min.css HTTP/1.1" 200 99961
+127.0.0.1 - - [31/Mar/2014:23:29:08 -0300] "POST /cadastroweb/salvar.do HTTP/1.1" 200 291
